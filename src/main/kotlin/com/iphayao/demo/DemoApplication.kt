@@ -1,12 +1,12 @@
-package com.iphayao.springmicroservicekotlin
+package com.iphayao.demo
 
 import org.springframework.boot.autoconfigure.SpringBootApplication
 import org.springframework.boot.runApplication
 
 @SpringBootApplication
-class SpringMicroserviceKotlinApplication
+class DemoApplication
 
 fun main(args: Array<String>) {
-	runApplication<SpringMicroserviceKotlinApplication>(*args)
+	runApplication<DemoApplication>(*args)
 }
 

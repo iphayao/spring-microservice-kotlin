@@ -1,4 +1,4 @@
-package com.iphayao.springmicroservicekotlin
+package com.iphayao.demo
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
-class SpringMicroserviceKotlinApplicationTests {
+class DemoApplicationTests {
 
 	@Test
 	fun contextLoads() {

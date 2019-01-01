@@ -1,0 +1,9 @@
+spring:
+  jpa:
+    hibernate:
+      ddl-auto: create
+
+  datasource:
+    url: jdbc:mysql://localhost:3306/db_webservice
+    username: webservice
+    password: P@ssw0rd
